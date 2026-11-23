@@ -1,0 +1,10 @@
+{
+  "name": "TNGB Recovery & Follow-up",
+  "short_name": "TNGB Follow-up",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#003366",
+  "theme_color": "#003366",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
